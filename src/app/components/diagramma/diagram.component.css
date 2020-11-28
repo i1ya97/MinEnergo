@@ -1,0 +1,9 @@
+.content {
+    width: 46%;
+    position: absolute;
+    height: 35%;
+    right: 25px;
+    top: 10px;
+    border-radius: 15px;
+    background-color: #1B2851;
+}

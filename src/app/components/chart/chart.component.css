@@ -1,0 +1,10 @@
+.content {
+    border-radius: 15px;
+    height: 60%;
+    position: absolute;
+    bottom: 10px;
+    left: 15px;
+    right: 15px;
+    margin: 10px;
+    background-color: #1B2851;
+}

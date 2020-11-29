@@ -1,0 +1,14 @@
+.content {
+    position: absolute;
+    width: 55.2%;
+    top: 10px;
+    border-radius: 15px;
+    left: 25px;
+    height: 32.7%;
+    background-color: #1B2851;
+    background-image: url(../../../assets/russia.svg);
+    cursor: pointer;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

@@ -1,0 +1,15 @@
+.content {
+    width: 55.3%;
+    bottom: 59%;
+    border-radius: 15px;
+    left: 25px;
+    height: 50px;
+    position: absolute;
+    background-color: #1B2851;
+}
+h2 {
+    margin-left: 35px;
+    margin-right: 35px;
+    display: initial;
+    color: aliceblue;
+}
